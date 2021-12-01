@@ -1,0 +1,72 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(126, 177, 235);
+    font-family: 'Big Shoulders Text', cursive;
+    font-weight: 400;
+    font-size: 40px;
+}
+.first{
+    width: 400px;
+    position:relative;
+    left:-30%;
+    border-radius: 10px;
+    margin: 0 auto;
+    border: 3px solid rgb(116, 30, 41)
+}
+.nav{
+    padding: 0px 20px 20px 20px;
+}
+.btn{
+    color: white;
+    background-color: rgb(131, 37, 45);
+    font-size: 20px;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: center;
+    position:relative;
+    left:40.5%;
+    width: 300px;
+    border-radius: 25px;
+    bottom: 270px;
+    border: 3px solid rgb(255, 255, 255)
+}
+.btn:hover{
+    background-color: rgb(252, 56, 56);
+}
+.btn:active{
+    background-color: rgb(219, 81, 81);
+}
+.video{
+    display: flex;
+    bottom: 300px;
+}
+.spisok{
+    left: -30%;
+    width: 400px;
+    position:relative;
+    border-radius: 10px;
+    margin: 0 auto;
+    border: 3px solid rgb(116, 30, 41)
+    
+}
+.btn-two{
+    color: white;
+    background-color: rgb(235, 121, 130);
+    font-size: 20px;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: center;
+    position:relative;
+    left:40.5%;
+    width: 300px;
+    border-radius: 25px;
+    bottom: 230px;
+    border: 3px solid rgb(255, 255, 255)
+}
+.btn-two:hover{
+    background-color: rgb(240, 106, 106);
+}
+.btn-two:active{
+    background-color: rgb(219, 81, 81);
+}
